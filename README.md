@@ -56,14 +56,6 @@ Experienced in highly distributed systems development, deployment, and scaling i
   <a href="https://www.twitter.com/_JonathanFarber" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Forty-SixNTwo"><img src="https://github-readme-stats.vercel.app/api?username=Forty-SixNTwo&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=facc15&bg_color=22272e&hide_border=true&show_icons=true" alt="Forty-SixNTwo's GitHub stats" /></a>
-
-<a href="http://www.github.com/Forty-SixNTwo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Forty-SixNTwo&stroke=ffffff&background=22272e&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/jkfarberp"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
