@@ -9,7 +9,11 @@ Experienced in highly distributed systems development, deployment, and scaling i
 * 🌍  I'm based in Israel 
 * 🚀  I'm currently working on [Open source NodeJS server side frameworks](http://github.com/Forty-SixNTwo?tab=repositories) 
 * 🧠  I'm learning Rust lang 
-* 🤝  I'm open to collaborating on BackEnd technologies, Communication Protocols, Persistency solutions among others… 
+* 🤝  I'm open to collaborating on 
+  * Back-End technologies
+  * Communication Protocols 
+  * Persistency solutions 
+  * Much more… 
 * ⚡  Enjoying the struggles of parenthood
 
 ### Skills  
