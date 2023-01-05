@@ -7,7 +7,8 @@ Back-End Software Engineer,
 Experienced in highly distributed systems development, deployment, and scaling in production.  
 
 * 🌍  I'm based in Israel 
-* 🚀  I'm currently working on [Open source NodeJS server side frameworks](http://github.com/Forty-SixNTwo?tab=repositories) 
+* 🚀  I'm currently working on:
+  - [Open source NodeJS server side frameworks](http://github.com/Forty-SixNTwo?tab=repositories) 
 * 🧠  I'm learning Rust lang 
 * 🤝  I'm open to collaborating on 
   * Back-End technologies
