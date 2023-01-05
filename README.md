@@ -6,10 +6,9 @@ Back-End Software Engineer,
 
 Experienced in highly distributed systems development, deployment, and scaling in production.  
 
-* 🌍  I'm based in Israel 
-* 🚀  I'm currently working
-  - At [AllSeated](https://allseated.com)
-  - On [Open source Node.js frameworks](http://github.com/Forty-SixNTwo?tab=repositories) 
+* 🌍  I'm based in Israel
+* 🖇️  I'm currently employeed at [AllSeated](https://allseated.com)
+* 🚀  I'm currently working on [Open source Node.js frameworks](http://github.com/Forty-SixNTwo?tab=repositories) 
 * 🧠  I'm learning Rust lang 
 * 🤝  I'm open to collaborating on 
   * Back-End technologies
