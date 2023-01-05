@@ -9,15 +9,13 @@ Experienced in highly distributed systems development, deployment, and scaling i
 * 🌍  I'm based in Israel
 * 🖇️  I'm currently employeed at [AllSeated](https://allseated.com)
 * 🚀  I'm currently working on [Open source Node.js frameworks](http://github.com/Forty-SixNTwo?tab=repositories) 
-* 🧠  I'm learning Rust lang 
+* 🧠  I'm currently learning Rust
 * 🤝  I'm open to collaborating on 
-  * Back-End technologies
-  * Communication Protocols 
-  * Persistency solutions 
-  * Much more… 
+  - CNCF projects
+  - Edge computing solutions
 * ⚡ Enjoying
-  - Listening to, and playing music.
-  - The struggles of parenthood.
+  - Listening to, and playing music
+  - The struggles of parenthood
 
 ### Skills  
 
