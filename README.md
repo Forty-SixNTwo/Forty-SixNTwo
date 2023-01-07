@@ -9,7 +9,7 @@ Experienced in highly distributed systems development, deployment, and scaling i
 * 🌍  Based in Israel
 * 🖇️  Employeed at [AllSeated](https://allseated.com)
 * 🚀  Working on 
-  - [Open source Node.js frameworks](http://github.com/Forty-SixNTwo?tab=repositories) 
+  - [Node.js frameworks](http://github.com/Forty-SixNTwo?tab=repositories) 
 * 🧠  Learning [Rust](https://www.rust-lang.org)
 * 🤝  Open to collaborating on
   - CNCF projects
