@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jonathan Farber
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Jonathan Farber
 =============================================================================================================
 
 Back-End Software Engineer, 
@@ -14,7 +14,7 @@ Experienced in highly distributed systems development, deployment, and scaling i
 * 🤝  Open to collaborating on
   - [CNCF projects](https://www.cncf.io)
   - [Edge computing solutions](https://en.m.wikipedia.org/wiki/Edge_computing)
-* ⚡ Enjoying
+* ⚡ Enjoy
   - Listening to, and playing music
   - The struggles of parenthood
 
