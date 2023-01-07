@@ -12,8 +12,8 @@ Experienced in highly distributed systems development, deployment, and scaling i
   - [Node.js frameworks](http://github.com/Forty-SixNTwo?tab=repositories) 
 * 🧠  Learning [Rust](https://www.rust-lang.org)
 * 🤝  Open to collaborating on
-  - CNCF projects
-  - Edge computing solutions
+  - [CNCF projects](https://www.cncf.io)
+  - [Edge computing solutions](https://en.m.wikipedia.org/wiki/Edge_computing)
 * ⚡ Enjoying
   - Listening to, and playing music
   - The struggles of parenthood
