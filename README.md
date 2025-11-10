@@ -7,7 +7,7 @@ Back-End Software Engineer,
 Experienced in highly distributed systems development, deployment, and scaling in production.  
 
 * 🌍  Based in Israel
-* 🖇️  Employeed at [AllSeated](https://allseated.com)
+* 🖇️  Employeed at [Glide Identity](https://glideidentity.com)
 * 🚀  Working on 
   - [Node.js frameworks](http://github.com/Forty-SixNTwo?tab=repositories) 
 * 🧠  Learning [Rust](https://www.rust-lang.org)
