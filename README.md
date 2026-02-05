@@ -1,22 +1,22 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Jonathan Farber
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Jonathan Farber.
 =============================================================================================================
 
-Back-End Software Engineer, 
+Senior Software Engineer, 
 ---------------------------  
 
 Experienced in highly distributed systems development, deployment, and scaling in production.  
 
 * 🌍  Based in Israel
 * 🖇️  Employeed at [Firefly](https://www.firefly.ai)
-* 🚀  Working on 
-  - [Node.js frameworks](http://github.com/Forty-SixNTwo?tab=repositories) 
+* 🚀  Working on the [following](http://github.com/Forty-SixNTwo?tab=repositories) 
 * 🧠  Learning [Rust](https://www.rust-lang.org)
 * 🤝  Open to collaborating on
   - [CNCF projects](https://www.cncf.io)
   - [Edge computing solutions](https://en.m.wikipedia.org/wiki/Edge_computing)
 * ⚡ Enjoy
-  - Listening to, and playing music
-  - The struggles of parenthood
+  - Listening to, and playing music 🎶
+  - The struggles of parenthood 🧑‍🧑‍🧒‍🧒
+  - classic American boxing 🥊
 
 ### Skills  
 
